@@ -6,7 +6,7 @@
 
 ----
 
-The SQL scripts require the installation of Java, Apache Spark, and PySpark.
+The SQL scripts require the installation of Java, Apache Spark, and PySpark. Here is a list of commands for MacOS Terminal:
 
 brew install openjdk
 
