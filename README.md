@@ -34,4 +34,4 @@ Many factors influence query runtime: query complexity, size of data set, system
 
 These execution times demonstrate the advantages of using caching and partitioning to improve the runtime of data analysis tasks, which are crucial to effectively work with large data sets.
 
-In conclusion, it's important to consider that the average price for homes is influenced by many factors: location, property characteristics, market conditions, among others. The provided home sales information does not show any direct relationship between the year of construction and average price. Consequently, there is likely other determinants for housing prices, such as changes in economic conditions, changes in the market, and comparative property attributes.
+In conclusion, the provided home sales information does not show any direct relationship between the year of construction and average price. Consequently, there is likely other determinants for housing prices, such as changes in economic conditions, changes in market conditions, location, and comparative property attributes.
