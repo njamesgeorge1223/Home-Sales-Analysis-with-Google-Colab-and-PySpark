@@ -6,7 +6,7 @@
 
 ----
 
-With PySpark on Google Colab, this project finds key metrics about home sales data using temporary views, data partitions, and cached tables. The project answered the following questions about home sales:
+With PySpark on Google Colab, this project looks for key metrics about home sales data using temporary views, data partitions, and cached tables. The project answered the following questions about home sales:
 
 1. What is the average price for a four-bedroom house sold for each year?
 
