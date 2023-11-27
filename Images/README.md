@@ -1,4 +1,4 @@
-This folder holds the images of this project's Home Sales queries.
+This folder holds the Home Sales Analysis with Google Colab and PySpark's home sales queries.
 
 ----
 
